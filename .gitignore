@@ -1,0 +1,14 @@
+# Extended from https://github.com/github/gitignore/blob/main/Python.gitignore
+
+# IDE
+.vscode
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+
+# Distribution / packaging
+pyine.egg-info
+dist/
+
+# Environments
+.venv
